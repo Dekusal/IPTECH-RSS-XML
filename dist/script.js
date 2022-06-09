@@ -17,4 +17,5 @@ function loadRSS(link, htmlContainer, linktext) {
             }
         }
     });
+    
 }
